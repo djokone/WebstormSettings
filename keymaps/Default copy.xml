@@ -26,6 +26,10 @@
     <keyboard-shortcut first-keystroke="ctrl a" />
   </action>
   <action id="Console.TableResult.CompareCells" />
+  <action id="Console.TableResult.SetNull" />
+  <action id="CreateWebProject">
+    <keyboard-shortcut first-keystroke="ctrl alt n" />
+  </action>
   <action id="DatabaseView.CopyAction" />
   <action id="DecrementWindowHeight" />
   <action id="Diagram.SelectAll" />
@@ -36,10 +40,12 @@
   <action id="EditorDuplicate">
     <keyboard-shortcut first-keystroke="shift ctrl d" />
   </action>
+  <action id="EditorMatchBrace" />
   <action id="EditorNextWordWithSelection" />
   <action id="EditorScrollToCenter" />
   <action id="EditorSelectWord" />
   <action id="ExpressionTypeInfo" />
+  <action id="ExtractMethod" />
   <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.NewFolder">
     <keyboard-shortcut first-keystroke="alt insert" />
@@ -55,7 +61,6 @@
   <action id="GotoChangedFile" />
   <action id="GotoClass" />
   <action id="GotoFile">
-    <keyboard-shortcut first-keystroke="shift ctrl n" />
     <keyboard-shortcut first-keystroke="ctrl p" />
   </action>
   <action id="GotoSymbol">
@@ -64,7 +69,14 @@
   </action>
   <action id="IncreaseColumnWidth" />
   <action id="IncrementWindowWidth" />
+  <action id="Inline" />
+  <action id="ManageRecentProjects">
+    <keyboard-shortcut first-keystroke="ctrl alt m" />
+  </action>
   <action id="MoveStatementUp" />
+  <action id="NewDirectoryProject">
+    <keyboard-shortcut first-keystroke="shift ctrl n" />
+  </action>
   <action id="NewElement">
     <keyboard-shortcut first-keystroke="alt insert" />
     <keyboard-shortcut first-keystroke="ctrl n" />
@@ -72,6 +84,9 @@
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="alt right" />
     <keyboard-shortcut first-keystroke="ctrl tab" />
+  </action>
+  <action id="OpenProjectWindows">
+    <keyboard-shortcut first-keystroke="shift ctrl m" />
   </action>
   <action id="ParameterInfo" />
   <action id="PreviousTab">
@@ -115,6 +130,9 @@
   </action>
   <action id="Vcs.ShowMessageHistory">
     <keyboard-shortcut first-keystroke="ctrl e" />
+  </action>
+  <action id="WelcomeScreen.NewGroup">
+    <keyboard-shortcut first-keystroke="shift ctrl g" />
   </action>
   <action id="XDebugger.CopyWatch" />
   <action id="openAssertEqualsDiff" />

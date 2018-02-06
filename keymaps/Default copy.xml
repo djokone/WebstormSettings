@@ -41,7 +41,9 @@
     <keyboard-shortcut first-keystroke="shift ctrl d" />
   </action>
   <action id="EditorMatchBrace" />
+  <action id="EditorNextWord" />
   <action id="EditorNextWordWithSelection" />
+  <action id="EditorPreviousWord" />
   <action id="EditorScrollToCenter" />
   <action id="EditorSelectWord" />
   <action id="ExpressionTypeInfo" />
@@ -68,11 +70,21 @@
     <keyboard-shortcut first-keystroke="shift ctrl a" />
   </action>
   <action id="IncreaseColumnWidth" />
+  <action id="IncrementWindowHeight" />
   <action id="IncrementWindowWidth" />
   <action id="Inline" />
   <action id="ManageRecentProjects">
     <keyboard-shortcut first-keystroke="ctrl alt m" />
   </action>
+  <action id="MoveLineDown">
+    <keyboard-shortcut first-keystroke="shift alt down" />
+    <keyboard-shortcut first-keystroke="shift ctrl down" />
+  </action>
+  <action id="MoveLineUp">
+    <keyboard-shortcut first-keystroke="shift alt up" />
+    <keyboard-shortcut first-keystroke="shift ctrl up" />
+  </action>
+  <action id="MoveStatementDown" />
   <action id="MoveStatementUp" />
   <action id="NewDirectoryProject">
     <keyboard-shortcut first-keystroke="shift ctrl n" />
@@ -98,6 +110,7 @@
     <keyboard-shortcut first-keystroke="ctrl h" />
   </action>
   <action id="ResetColumnsWidth" />
+  <action id="ResizeToolWindowDown" />
   <action id="ResizeToolWindowRight" />
   <action id="ResizeToolWindowUp" />
   <action id="RunDashboard.CopyConfiguration" />
@@ -108,10 +121,11 @@
     <keyboard-shortcut first-keystroke="alt p" />
   </action>
   <action id="SplitHorizontally">
-    <keyboard-shortcut first-keystroke="shift ctrl up" />
+    <keyboard-shortcut first-keystroke="ctrl left" />
   </action>
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="shift ctrl right" />
+    <keyboard-shortcut first-keystroke="ctrl right" />
   </action>
   <action id="Switcher" />
   <action id="ToggleSideMode">

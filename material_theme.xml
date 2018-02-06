@@ -3,6 +3,11 @@
     <option name="version" value="1.6.0.4" />
     <option name="selectedTheme" value="ONE_DARK" />
     <option name="highlightColor" value="80cbc4" />
+    <option name="highlightColorEnabled" value="true" />
     <option name="accentColor" value="c6ff00" />
+    <option name="useProjectViewDecorators" value="false" />
+    <option name="isCompactStatusBar" value="true" />
+    <option name="isCompactTables" value="true" />
+    <option name="darkTitleBar" value="true" />
   </component>
 </application>

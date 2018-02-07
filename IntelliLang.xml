@@ -1,0 +1,8 @@
+<application>
+  <component name="LanguageInjectionConfiguration">
+    <injection language="GenericSQL" injector-id="xml">
+      <display-name>card/@v-for</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("v-for")).withParent(xmlTag().withLocalName(string().equalTo("card")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
+  </component>
+</application>

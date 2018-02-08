@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'imperial'" />
-    <option name="defaultScopeName" value="Project 'imperial'" />
-    <option name="SEARCH_SCOPE" value="Project 'imperial'" />
+    <option name="customScope" value="File '...\test\AliasLoaderSpec.js [Iorizon-cli]'" />
+    <option name="defaultScopeName" value="File '...\test\AliasLoaderSpec.js [Iorizon-cli]'" />
+    <option name="SEARCH_SCOPE" value="File '...\test\AliasLoaderSpec.js [Iorizon-cli]'" />
   </component>
 </application>

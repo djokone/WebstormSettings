@@ -109,6 +109,10 @@
     <mouse-shortcut keystroke="alt button2" />
     <keyboard-shortcut first-keystroke="ctrl h" />
   </action>
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="shift f6" />
+    <keyboard-shortcut first-keystroke="ctrl alt r" />
+  </action>
   <action id="ResetColumnsWidth" />
   <action id="ResizeToolWindowDown" />
   <action id="ResizeToolWindowRight" />

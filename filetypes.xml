@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="message" type="JavaScript" />
       <mapping ext="ctp" type="PHP" />
       <mapping pattern="Data" type="PLAIN_TEXT" />
       <mapping pattern="SignIn" type="TypeScript JSX" />

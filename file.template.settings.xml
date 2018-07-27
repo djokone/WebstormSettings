@@ -3,6 +3,7 @@
     <default_templates>
       <template name="Vue Model.js" reformat="true" live-template-enabled="true" />
       <template name="Vue Router Transition.vue" reformat="true" live-template-enabled="true" />
+      <template name="Vuex ORM Model.js" reformat="true" live-template-enabled="true" />
     </default_templates>
   </component>
 </application>

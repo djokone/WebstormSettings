@@ -4,6 +4,7 @@
       <mapping pattern="message" type="JavaScript" />
       <mapping ext="ctp" type="PHP" />
       <mapping pattern="Data" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="SignIn" type="TypeScript JSX" />
       <mapping pattern="adminInteretsList" type="Vue.js" />
     </extensionMap>

@@ -4,5 +4,13 @@
       <display-name>card/@v-for</display-name>
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("v-for")).withParent(xmlTag().withLocalName(string().equalTo("card")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
+    <injection language="Vue" injector-id="xml">
+      <display-name>el-button/@@click</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().matches("@click")).withParent(xmlTag().withLocalName(string().equalTo("el-button")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
+    <injection language="HTML" injector-id="xml">
+      <display-name>el-button/@@click</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().matches("@click")).withParent(xmlTag().withLocalName(string().equalTo("el-button")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
   </component>
 </application>

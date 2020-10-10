@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="message" type="JavaScript" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="DevApps.vue" type="PLAIN_TEXT" />
       <mapping pattern="Data" type="PLAIN_TEXT" />
       <mapping ext="export_metadata" type="PLAIN_TEXT" />
       <mapping pattern="SignIn" type="TypeScript JSX" />

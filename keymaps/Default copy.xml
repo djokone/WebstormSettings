@@ -140,6 +140,9 @@
   <action id="Vcs.ShowMessageHistory">
     <keyboard-shortcut first-keystroke="ctrl e" />
   </action>
+  <action id="ViewNavigationBar">
+    <keyboard-shortcut first-keystroke="ctrl comma" />
+  </action>
   <action id="WelcomeScreen.NewGroup">
     <keyboard-shortcut first-keystroke="shift ctrl g" />
   </action>

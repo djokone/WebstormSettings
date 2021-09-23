@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="crontab" type="AUTO_DETECTED" />
       <mapping pattern="message" type="JavaScript" />
       <mapping pattern=".wslconfig" type="PLAIN_TEXT" />
       <mapping pattern="index" type="PLAIN_TEXT" />

@@ -6,8 +6,8 @@
       <mapping pattern=".wslconfig" type="PLAIN_TEXT" />
       <mapping pattern="index" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern="DevApps.vue" type="PLAIN_TEXT" />
       <mapping pattern="Data" type="PLAIN_TEXT" />
+      <mapping pattern="DevApps.vue" type="PLAIN_TEXT" />
       <mapping ext="export_metadata" type="PLAIN_TEXT" />
       <mapping pattern="SignIn" type="TypeScript JSX" />
       <mapping pattern="adminInteretsList" type="Vue.js" />

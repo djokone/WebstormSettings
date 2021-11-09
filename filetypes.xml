@@ -1,16 +1,16 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping pattern="cmdServer" type="AUTO_DETECTED" />
       <mapping pattern=".dockerignore" type="AUTO_DETECTED" />
       <mapping pattern="crontab" type="AUTO_DETECTED" />
+      <mapping pattern="cmdServer" type="AUTO_DETECTED" />
       <mapping pattern="migrationSchemaSQL" type="AUTO_DETECTED" />
       <mapping pattern="message" type="JavaScript" />
-      <mapping pattern=".wslconfig" type="PLAIN_TEXT" />
       <mapping pattern="index" type="PLAIN_TEXT" />
+      <mapping pattern="DevApps.vue" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="Data" type="PLAIN_TEXT" />
-      <mapping pattern="DevApps.vue" type="PLAIN_TEXT" />
+      <mapping pattern=".wslconfig" type="PLAIN_TEXT" />
       <mapping ext="export_metadata" type="PLAIN_TEXT" />
       <mapping pattern="SignIn" type="TypeScript JSX" />
       <mapping pattern="adminInteretsList" type="Vue.js" />

@@ -3,6 +3,7 @@
     <option name="compactMenus" value="true" />
     <option name="compactStatusBar" value="true" />
     <option name="compactTables" value="true" />
+    <option name="contrastMode" value="true" />
     <option name="highlightColorEnabled" value="true" />
     <option name="premium" value="true" />
     <option name="compactDropdowns" value="true" />
@@ -10,10 +11,10 @@
     <option name="isCompactMenus" value="true" />
     <option name="isCompactStatusBar" value="true" />
     <option name="isCompactTables" value="true" />
+    <option name="isContrastMode" value="true" />
     <option name="isWizardShown" value="true" />
-    <option name="accentColor" value="416a9b" />
+    <option name="accentColor" value="009688" />
     <option name="highlightColor" value="80cbc4" />
-    <option name="selectedTheme" value="NATIVE" />
     <option name="userId" value="d2c646d:175062e088b:-7fff" />
     <option name="version" value="6.9.1" />
   </component>
